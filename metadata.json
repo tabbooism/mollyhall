@@ -1,0 +1,6 @@
+{
+  "name": "RedOps Command & Spa Wift Killchains",
+  "description": "Dedicated script Red Ops framework for cybersecurity assessments, automated Spa Wift killchains, threat intelligence visualization, and runehall.com continuous auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
